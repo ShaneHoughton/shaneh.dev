@@ -1,0 +1,10 @@
+.icon-button, .icon-button a{
+  color: #D6F48D;
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.icon-button:hover, .icon-button a:hover{
+  color: #d7f48dbe;
+  cursor: pointer;
+}

@@ -1,0 +1,75 @@
+.about{
+  width: 100%;
+  height: fit-content;
+  padding:  2% 10% 5% 10%;
+  animation: slide-down 800ms ease-out forwards;
+  word-break: normal;
+  box-sizing: border-box;
+}
+
+.title h1{
+  /* font-size: 5rem; */
+  margin: -1rem 0;
+  color: #D6F48D;
+}
+
+.title h3{
+  margin: 0;
+  
+}
+
+.body{
+  margin-top: 2rem;
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+}
+
+.contact{
+  display: flex;
+  gap: 2%
+}
+
+
+
+@media (min-width: 900px) {
+  .body p{
+    width: 33%;
+  }
+
+  .title h1{
+    font-size: 6rem;
+  }
+}
+
+@media (max-width: 900px) {
+
+  .title h1{
+    font-size: 3.5rem;
+  }
+
+ 
+}
+
+
+@keyframes slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(-2rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(-.5rem);
+  }
+}
