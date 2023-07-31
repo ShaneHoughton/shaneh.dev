@@ -8,12 +8,12 @@ import Projects from "./Pages/Projects/Projects";
 function App() {
   return (
     <div>
-      <Router basename="/shaneh.dev/about">
+      <Router basename="/shaneh.dev">
         <NavHeader />
         <Routes>
-          <Route path="/shaneh.dev/about" element={<About />} />
+          <Route path="/shaneh.dev" element={<About />} />
           <Route path="/shaneh.dev/projects/*" element={<Projects />} />
-          <Route path="*" element={<Navigate to="/shaneh.dev/about" />} />
+          <Route path="*" element={<Navigate to="/shaneh.dev" />} />
         </Routes>
         <Footer />
       </Router>
