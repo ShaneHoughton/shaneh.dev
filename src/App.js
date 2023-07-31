@@ -11,9 +11,9 @@ function App() {
       <Router >
         <NavHeader />
         <Routes basename='/'>
-          <Route path="shaneh.dev" element={<About />} />
+          <Route path="" element={<About />} />
           <Route path="projects/*" element={<Projects />} />
-          <Route path="*" element={<Navigate to="/shaneh.dev" />} />
+          <Route path="*" element={<Navigate to="/" />} />
         </Routes>
         <Footer />
       </Router>
