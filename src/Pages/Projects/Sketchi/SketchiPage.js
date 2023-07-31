@@ -9,13 +9,13 @@ const SketchiPage = () => {
       <h1>Sketchi.io</h1>
       <div style={{display:'flex', gap:'1rem', flexWrap:'wrap'}}>
         
-        <img src={canvas}>
+        <img src={canvas} alt='using the canvas'>
         </img>
 
-        <img src={upload}>
+        <img src={upload} alt='uploading a drawing'>
         </img>
 
-        <img src={signIn}>
+        <img src={signIn} alt='signing in user'>
         </img>
 
       </div>

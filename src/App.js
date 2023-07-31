@@ -11,9 +11,9 @@ function App() {
       <Router basename="/">
         <NavHeader />
         <Routes>
-          <Route path="/about" element={<About />} />
-          <Route path="/projects/*" element={<Projects />} />
-          <Route path="*" element={<Navigate to="/about" />} />
+          <Route path="/shaneh.dev/about" element={<About />} />
+          <Route path="/shaneh.dev/projects/*" element={<Projects />} />
+          <Route path="*" element={<Navigate to="/shaneh.dev/about" />} />
         </Routes>
         <Footer />
       </Router>
