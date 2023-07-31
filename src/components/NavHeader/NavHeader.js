@@ -5,7 +5,8 @@ import DropDownMenu from '../DropDownMenu/DropDownMenu';
 const NavHeader = () => {
   return (
     <header className={classes.header}>
-      <h1>shaneh.dev</h1>
+      <Link to="/"><h1>shaneh.dev</h1></Link>
+      
       <nav>
         <ul>
           <li>
