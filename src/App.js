@@ -10,9 +10,9 @@ function App() {
     <div>
       <Router >
         <NavHeader />
-        <Routes>
-          <Route path="/shaneh.dev" element={<About />} />
-          <Route path="/projects/*" element={<Projects />} />
+        <Routes basename='/'>
+          <Route path="shaneh.dev" element={<About />} />
+          <Route path="projects/*" element={<Projects />} />
           <Route path="*" element={<Navigate to="/shaneh.dev" />} />
         </Routes>
         <Footer />
