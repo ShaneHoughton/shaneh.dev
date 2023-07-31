@@ -23,10 +23,10 @@ const DropDownMenu = () => {
       <div className={`${classes.menu} ${isOpen ? classes.active : ''}`}>
         <ul>
           <li>
-            <Link to="/about">About</Link>
+            <Link onClick={()=>setIsOpen(false)} to="/about">About</Link>
           </li>
           <li>
-            <Link to="/projects">Projects</Link>
+            <Link onClick={()=>setIsOpen(false)} to="/projects">Projects</Link>
           </li>
           {/* <li>
             <Link to="/contact">Contact</Link>
