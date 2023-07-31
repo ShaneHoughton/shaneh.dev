@@ -16,12 +16,12 @@ const About = () => {
         <p>
           and I am a developer from Easton, Pennsylvania who loves working on creative projects and creative solutions.
         </p>
-        <p>I studied Computer Science and UI Design at Moravian University in Bethlehem Pennsylvania. I made this website
-          to showcase projects I have made or what I am currently working on.</p>
-        <p>I am equally passionate about distance running and racing. One of my goals is to eventually qualify for the Olympic Trials marathon!</p>
+        <p>I studied Computer Science and UI Design at Moravian University in Bethlehem, Pennsylvania.
+           I created this website to showcase the projects I have completed and those I am currently working on.</p>
+        <p>Additionally, I am a passionate distance runner, with one of my goals being to eventually qualify for the Olympic Trials marathon!</p>
         
         <p>
-          I move at a fast pace, so try your best to keep up.
+        I thrive in a fast-paced environment, so try your best to keep up.
         </p>
       </div>
       <CustomButton onClick={()=>navigate('/projects')}>Check out my work</CustomButton>
