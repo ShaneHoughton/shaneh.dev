@@ -9,10 +9,10 @@ const NavHeader = () => {
       <nav>
         <ul>
           <li>
-            <Link to="/shaneh.dev/about">About</Link>
+            <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/shaneh.dev/projects">Projects</Link>
+            <Link to="/projects">Projects</Link>
           </li>
           {/* <li>
             <a href="https:example.com">Contact</a>
