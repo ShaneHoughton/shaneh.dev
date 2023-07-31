@@ -8,11 +8,11 @@ import Projects from "./Pages/Projects/Projects";
 function App() {
   return (
     <div>
-      <Router basename="/shaneh.dev">
+      <Router >
         <NavHeader />
         <Routes>
           <Route path="/shaneh.dev" element={<About />} />
-          <Route path="/shaneh.dev/projects/*" element={<Projects />} />
+          <Route path="/projects/*" element={<Projects />} />
           <Route path="*" element={<Navigate to="/shaneh.dev" />} />
         </Routes>
         <Footer />
