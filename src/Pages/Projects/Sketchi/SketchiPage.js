@@ -49,12 +49,6 @@ const SketchiPage = () => {
         <li>Functions for notifying developer to review reported posts</li>
         <li>Firestore database</li>
         <li>Firebase collection for images</li>
-        <li>Error handling with banners</li>
-        <li>Pagination</li>
-        <li>Liking posts</li>
-        <li>Deleting posts</li>
-        <li>Renaming posts</li>
-        <li>Reporting posts</li>
       </ul>
 
       <h3>I am currently working on...</h3>
