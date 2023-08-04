@@ -10,10 +10,10 @@ const NavHeader = () => {
       <nav>
         <ul>
           <li>
-            <Link to="/">About</Link>
+            <Link className={classes.link} to="/">About</Link>
           </li>
           <li>
-            <Link to="/projects">Projects</Link>
+            <Link  className={classes.link} to="/projects">Projects</Link>
           </li>
           {/* <li>
             <a href="https:example.com">Contact</a>

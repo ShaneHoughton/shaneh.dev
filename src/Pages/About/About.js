@@ -21,7 +21,7 @@ const About = () => {
         <p>Additionally, I am a passionate distance runner, with one of my goals being to eventually qualify for the Olympic Trials marathon!</p>
         
         <p>
-        I thrive in a fast-paced environment, so try your best to keep up.
+        I thrive in a fast-paced environment and I like to keep busy.
         </p>
       </div>
       <CustomButton onClick={()=>navigate('/projects')}>Check out my work</CustomButton>
@@ -39,14 +39,14 @@ const About = () => {
         </IconButton>
 
         <IconButton>
-          <a href="https://github.com/ShaneHoughton" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/houghtons/" target="_blank" rel="noreferrer">
 
             <i className="icon fab fa-linkedin"></i>
           </a>
         </IconButton>
 
         <IconButton>
-          <a href="https://www.linkedin.com/in/houghtons/" target="_blank" rel="noreferrer"><i className="fab fa-github"></i></a>
+          <a href="https://github.com/ShaneHoughton" target="_blank" rel="noreferrer"><i className="fab fa-github"></i></a>
         </IconButton>
       </div>
     </div>

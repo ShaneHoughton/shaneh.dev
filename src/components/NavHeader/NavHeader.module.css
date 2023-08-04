@@ -18,15 +18,29 @@
   gap: 3rem;
 }
 
-.header a {
+header a{
+  text-decoration: none;
+}
+
+.link {
   font-weight: bold;
   text-decoration: none;
   color:#F9F9DC;
 }
 
-.header nav a:visited {
+.link:hover {
+  text-decoration: underline;
+}
+
+.link:visited {
   color:#F9F9DC;
 }
+
+.header a:visited {
+  color:#F9F9DC;
+}
+
+
 
 .drop-down{
   display: none;

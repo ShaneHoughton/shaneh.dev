@@ -31,6 +31,16 @@
   max-width: 80vw;
 }
 
+.template a, .template a:visited {
+  text-decoration: none;
+  color: #13678A;
+}
+
+.template a:hover{
+  text-decoration: underline;
+  color: #D6F48D;
+}
+
 
 @media (min-width: 900px) {
   .template p{
