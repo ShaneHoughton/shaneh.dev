@@ -29,17 +29,34 @@ const SketchiPage = () => {
       <p>The front-end was built with React and the back-end is handled by Google's Firebase.</p>
       <p>It has most of the standard conventions for any application:</p>
 
+      <h3>User Experience:</h3>
       <ul>
         <li>Responsive Interface for mobile and desktop</li>
         <li>User creation</li>
         <li>User authentication</li>
-        <li>The ability to post</li>
-        <li>The ability to like posts</li>
         <li>Error handling with banners</li>
+        <li>Pagination</li>
+        <li>Liking posts</li>
         <li>Deleting posts</li>
         <li>Renaming posts</li>
         <li>Reporting posts</li>
       </ul>
+
+      <h3>Backend Development with Firebase:</h3>
+      <ul>
+        <li>Firebase functions for sending emails</li>
+        <li>Functions for notifying developer(me) of new users</li>
+        <li>Functions for notifying developer to review reported posts</li>
+        <li>Firestore database</li>
+        <li>Firebase collection for images</li>
+        <li>Error handling with banners</li>
+        <li>Pagination</li>
+        <li>Liking posts</li>
+        <li>Deleting posts</li>
+        <li>Renaming posts</li>
+        <li>Reporting posts</li>
+      </ul>
+
       <h3>I am currently working on...</h3>
       <ul>
         <li>Ability to delete your account</li>
