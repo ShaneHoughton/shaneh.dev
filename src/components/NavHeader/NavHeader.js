@@ -1,6 +1,6 @@
 import classes from './NavHeader.module.css';
 import { Link } from 'react-router-dom';
-import DropDownMenu from '../DropDownMenu/DropDownMenu';
+import DropDownNavMenu from '../DropDownNavMenu/DropDownNavMenu';
 
 const NavHeader = () => {
   return (
@@ -20,7 +20,7 @@ const NavHeader = () => {
           </li> */}
         </ul>
       </nav>
-    <div className={classes['drop-down']}><DropDownMenu/></div>
+    <div className={classes['drop-down']}><DropDownNavMenu/></div>
     
     </header>
   )

@@ -33,7 +33,7 @@ header a{
 }
 
 .link:visited {
-  color:#F9F9DC;
+  color:rgba(172, 172, 27, 0.445);
 }
 
 .header a:visited {

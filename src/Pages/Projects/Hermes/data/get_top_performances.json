@@ -1,0 +1,116 @@
+[
+  {
+    "event": "100",
+    "athlete/squad": "Gray, Trevor",
+    "year": "FR-1",
+    "time/mark": "10.98"
+  },
+  {
+    "event": "200",
+    "athlete/squad": "Santos, Jared",
+    "year": "SO-2",
+    "time/mark": "22.58"
+  },
+  {
+    "event": "400",
+    "athlete/squad": "Kleinberg, Geoffrey",
+    "year": "FR-1",
+    "time/mark": "50.97"
+  },
+  {
+    "event": "800",
+    "athlete/squad": "Gingrich, Peter",
+    "year": "SR-4",
+    "time/mark": "1:55.44"
+  },
+  {
+    "event": "1500",
+    "athlete/squad": "Houghton, Shane",
+    "year": "SR-4",
+    "time/mark": "4:02.45"
+  },
+  {
+    "event": "5000",
+    "athlete/squad": "Houghton, Shane",
+    "year": "SR-4",
+    "time/mark": "15:09.74"
+  },
+  {
+    "event": "10,000",
+    "athlete/squad": "Hajel, Nathan",
+    "year": "FR-1",
+    "time/mark": "32:10.55"
+  },
+  {
+    "event": "110H",
+    "athlete/squad": "Cherubin, Ethan",
+    "year": "JR-3",
+    "time/mark": "17.04"
+  },
+  {
+    "event": "400H",
+    "athlete/squad": "Gartner, Jason",
+    "year": "FR-1",
+    "time/mark": "59.72"
+  },
+  {
+    "event": "3000S",
+    "athlete/squad": "Houghton, Shane",
+    "year": "SR-4",
+    "time/mark": "9:28.51"
+  },
+  {
+    "event": "4x100",
+    "athlete/squad": "Marco Calantoni, Trevor Gray, Owen Sabastro, Jared Santos",
+    "year": "",
+    "time/mark": "42.53"
+  },
+  {
+    "event": "4x400",
+    "athlete/squad": "Peter Gingrich, Geoffrey Kleinberg, Matt Shea, Dominic DeRafelo",
+    "year": "",
+    "time/mark": "3:28.72"
+  },
+  {
+    "event": "4x800",
+    "athlete/squad": "Peter Gingrich, Dominic DeRafelo, Casey Frank, Brad Clemson",
+    "year": "",
+    "time/mark": "7:52.86"
+  },
+  {
+    "event": "PV",
+    "athlete/squad": "Schuman, Max",
+    "year": "SR-4",
+    "time/mark": "4.20m"
+  },
+  {
+    "event": "LJ",
+    "athlete/squad": "Sabastro, Owen",
+    "year": "FR-1",
+    "time/mark": "5.65m"
+  },
+  {
+    "event": "SP",
+    "athlete/squad": "Mastro, Shane",
+    "year": "SR-4",
+    "time/mark": "16.11m"
+  },
+  {
+    "event": "DT",
+    "athlete/squad": "Mastro, Shane",
+    "year": "SR-4",
+    "time/mark": "45.80m"
+  },
+  {
+    "event": "HT",
+    "athlete/squad": "Jenkins, Dan",
+    "year": "SO-2",
+    "time/mark": "50.71m"
+  },
+  {
+    "event": "JT",
+    "athlete/squad": "Keck, Eric",
+    "year": "JR-3",
+    "time/mark": "43.85m"
+  }
+]

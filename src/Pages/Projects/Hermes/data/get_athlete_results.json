@@ -1,0 +1,565 @@
+[
+  {
+      "meet_name": "AARTFC Outdoor Track & Field Championships",
+      "date": "May 17-18, 2023",
+      "performances": [
+          {"event": "3000S", "result": "9:35.58", "place": "10th (F)"}
+      ]
+  },
+  {
+      "meet_name": "Landmark Conference Outdoor Track & Field Championships 2023",
+      "date": "May 6-7, 2023",
+      "performances": [
+          {"event": "1500", "result": "4:03.70", "place": "5th (F)"},
+          {"event": "5000", "result": "16:33.13", "place": "12th (F)"},
+          {"event": "3000S", "result": "9:37.61", "place": "2nd (F)"}
+      ]
+  },
+  {
+      "meet_name": "Carol and John Covert Classic",
+      "date": "Apr 28-29, 2023",
+      "performances": [
+          {"event": "1500", "result": "4:07.49", "place": "6th (F)"}
+      ]
+  },
+  {
+      "meet_name": "2023 Coach Pollard Invitational",
+      "date": "Apr 21-22, 2023",
+      "performances": [
+          {"event": "3000S", "result": "9:51.15", "place": "1st (F)"}
+      ]
+  },
+  {
+      "meet_name": "Bison Outdoor Classic",
+      "date": "Apr 14-16, 2023",
+      "performances": [
+          {"event": "3000S", "result": "10:06.23", "place": "52nd (F)"}
+      ]
+  },
+  {
+      "meet_name": "Lehigh Games 2023",
+      "date": "Apr 7-8, 2023",
+      "performances": [
+          {"event": "1500", "result": "DNS", "place": ""}
+      ]
+  },
+  {
+      "meet_name": "Muhlenberg Outdoor Invitational",
+      "date": "Apr 1, 2023",
+      "performances": [
+          {"event": "3000S", "result": "9:57.73", "place": "3rd (F)"}
+      ]
+  },
+  {
+      "meet_name": "2023 Lafayette Open",
+      "date": "Mar 25, 2023",
+      "performances": [
+          {"event": "5000", "result": "15:56.34", "place": "5th (F)"}
+      ]
+  },
+  {
+      "meet_name": "2023 Landmark Conference Indoor Track & Field Championships",
+      "date": "Feb 25, 2023",
+      "performances": [
+          {"event": "3000", "result": "9:02.64", "place": "2nd (F)"},
+          {"event": "5000", "result": "15:28.36", "place": "3rd (F)"}
+      ]
+  },
+  {
+      "meet_name": "Penn State Tune-Up",
+      "date": "Feb 17, 2023",
+      "performances": [
+          {"event": "3000", "result": "8:46.53", "place": "8th (F)"}
+      ]
+  },
+  {
+      "meet_name": "2023 Boston University David Hemery Valentine Invite",
+      "date": "Feb 10-11, 2023",
+      "performances": [
+          {"event": "Mile", "result": "4:25.37", "place": "397th (F)"},
+          {"event": "5000", "result": "14:40.55", "place": "18th (F)"}
+      ]
+  },
+  {
+      "meet_name": "2023 Frank Colden Invitational",
+      "date": "Feb 4, 2023",
+      "performances": [
+          {"event": "3000", "result": "8:40.74", "place": "1st (F)"}
+      ]
+  },
+  {
+      "meet_name": "Mini-Dip Invitational @ F&M",
+      "date": "Jan 27, 2023",
+      "performances": [
+          {"event": "Mile", "result": "4:26.69", "place": "2nd (F)"}
+      ]
+  },
+  {
+      "meet_name": "2023 Moravian Indoor Meet",
+      "date": "Jan 21, 2023",
+      "performances": [
+          {"event": "3000", "result": "8:58.55", "place": "6th (F)"}
+      ]
+  },
+  {
+      "meet_name": "Bow Tie Invitational",
+      "date": "Dec 9, 2022",
+      "performances": [
+          {"event": "5000", "result": "15:27.04", "place": "3rd (F)"},
+          {"event": "4x400", "result": "3:55.99", "place": "12th (F)"}
+      ]
+  },
+  {
+      "meet_name": "NCAA Division III Metro Region Cross Country Championships",
+      "date": "Nov 12, 2022",
+      "performances": [
+          {"event": "8k", "result": "26:23.0", "place": "15th"}
+      ]
+  },
+  {
+      "meet_name": "2022 Landmark Conference Cross Country Championships",
+      "date": "Oct 29, 2022",
+      "performances": [
+          {"event": "8k", "result": "26:10.3", "place": "1st"}
+      ]
+  },
+  {
+      "meet_name": "Rowan Interregional Border Battle",
+      "date": "Oct 15, 2022",
+      "performances": [
+          {"event": "8k", "result": "26:14.6", "place": "69th"}
+      ]
+  },
+  {
+      "meet_name": "Coach Caslin Classic",
+      "date": "Oct 8, 2022",
+      "performances": [
+          {"event": "8k", "result": "26:43.5", "place": "2nd"}
+      ]
+  },
+  {
+      "meet_name": "Lehigh Paul Short Run (College)",
+      "date": "Sep 30, 2022",
+      "performances": [
+          {"event": "8k", "result": "25:24.8", "place": "111th"}
+      ]
+  },
+  {
+      "meet_name": "Kutztown DII/DIII Challenge",
+      "date": "Sep 16, 2022",
+      "performances": [
+          {"event": "8k", "result": "27:04.8", "place": "10th"}
+      ]
+  },
+  {
+      "meet_name": "Lehigh Invitational",
+      "date": "Sep 2, 2022",
+      "performances": [
+          {"event": "6k", "result": "18:16.8", "place": "15th"}
+      ]
+  },
+  {
+      "meet_name": "AARTFC Outdoor Track & Field Championships",
+      "date": "May 18-19, 2022",
+      "performances": [
+          {"event": "3000S", "result": "10:17.46", "place": "22nd (F)"}
+      ]
+  },
+  {
+      "meet_name": "Landmark Conference Outdoor Track & Field Championships 2022",
+      "date": "May 7-8, 2022",
+      "performances": [
+          {"event": "1500", "result": "4:08.30", "place": "11th (F)"},
+          {"event": "5000", "result": "15:25.94", "place": "4th (F)"},
+          {"event": "3000S", "result": "9:28.51", "place": "2nd (F)"}
+      ]
+  },
+  {
+      "meet_name": "2022 Coach Pollard Invitational",
+      "date": "Apr 23, 2022",
+      "performances": [
+          {"event": "3000S", "result": "9:29.71", "place": "1st (F)"}
+      ]
+  },
+  {
+      "meet_name": "2022 Greyhound Invitational",
+      "date": "Apr 15, 2022",
+      "performances": [
+          {"event": "1500", "result": "4:02.45", "place": "3rd (F)"},
+          {"event": "10,000", "result": "DNF", "place": ""}
+      ]
+  },
+  {
+      "meet_name": "Lehigh T&F Invite",
+      "date": "Apr 9, 2022",
+      "performances": [
+          {"event": "1500", "result": "DNS", "place": ""},
+          {"event": "5000", "result": "15:09.74", "place": "8th (F)"}
+      ]
+  },
+  {
+      "meet_name": "Muhlenberg Invitational",
+      "date": "Apr 2, 2022",
+      "performances": [
+          {"event": "3000S", "result": "9:42.52", "place": "2nd (F)"},
+          {"event": "4x400", "result": "3:37.19", "place": "6th (F)"}
+      ]
+  },
+  {
+      "meet_name": "AARTFC Indoor Track & Field Championships",
+      "date": "Mar 4-5, 2022",
+      "performances": [
+          {"event": "3000", "result": "8:41.73", "place": "13th (F)"},
+          {"event": "DMR", "result": "10:21.27", "place": "3rd (F)"}
+      ]
+  },
+  {
+      "meet_name": "2022 Landmark Conference Indoor Track & Field Championships",
+      "date": "Feb 26, 2022",
+      "performances": [
+          {"event": "Mile", "result": "4:29.59", "place": "9th (F)"},
+          {"event": "3000", "result": "8:47.01", "place": "3rd (F)"}
+      ]
+  },
+  {
+      "meet_name": "Penn State Tune Up",
+      "date": "Feb 18, 2022",
+      "performances": [
+          {"event": "Mile", "result": "4:23.99", "place": "9th (F)"}
+      ]
+  },
+  {
+      "meet_name": "Fastrack National Invite",
+      "date": "Feb 11, 2022",
+      "performances": [
+          {"event": "3000", "result": "8:38.08", "place": "3rd (F)"},
+          {"event": "DMR", "result": "10:32.39", "place": "3rd (F)"}
+      ]
+  },
+  {
+      "meet_name": "Plex Shootout at Alvernia Univ",
+      "date": "Feb 5, 2022",
+      "performances": [
+          {"event": "Mile", "result": "4:24.32", "place": "2nd (F)"}
+      ]
+  },
+  {
+      "meet_name": "2022 Moravian University Indoor Meet",
+      "date": "Jan 22, 2022",
+      "performances": [
+          {"event": "5000", "result": "15:33.17", "place": "1st (F)"}
+      ]
+  },
+  {
+      "meet_name": "Ithaca College vs. Brockport, Moravian & Oneonta",
+      "date": "Jan 14, 2022",
+      "performances": [
+          {"event": "3000", "result": "8:54.28", "place": "1st (F)"},
+          {"event": "4x400", "result": "3:47.85", "place": "2nd (F)"}
+      ]
+  },
+  {
+      "meet_name": "NCAA Division III Cross Country Championships",
+      "date": "Nov 20, 2021",
+      "performances": [
+          {"event": "8k", "result": "25:33.0", "place": "204th"}
+      ]
+  },
+  {
+      "meet_name": "NCAA Division III Metro Region Cross Country Championships",
+      "date": "Nov 13, 2021",
+      "performances": [
+          {"event": "8k", "result": "25:42.8", "place": "6th"}
+      ]
+  },
+  {
+      "meet_name": "2021 Landmark Conference Cross Country Championships",
+      "date": "Oct 30, 2021",
+      "performances": [
+          {"event": "8k", "result": "28:46.9", "place": "41st"}
+      ]
+  },
+  {
+      "meet_name": "Rowan Inter-Regional Border Battle",
+      "date": "Oct 16, 2021",
+      "performances": [
+          {"event": "8k", "result": "26:04.6", "place": "32nd"}
+      ]
+  },
+  {
+      "meet_name": "Lehigh Paul Short Run (college)",
+      "date": "Oct 1, 2021",
+      "performances": [
+          {"event": "8k", "result": "25:51.8", "place": "59th"}
+      ]
+  },
+  {
+      "meet_name": "NJAIA/Osprey Open",
+      "date": "Sep 25, 2021",
+      "performances": [
+          {"event": "8k", "result": "28:08.0", "place": "35th"}
+      ]
+  },
+  {
+      "meet_name": "Moravian University Invitational",
+      "date": "Sep 17, 2021",
+      "performances": [
+          {"event": "6k", "result": "19:03.3", "place": "1st"}
+      ]
+  },
+  {
+      "meet_name": "Lehigh Invitational",
+      "date": "Sep 2, 2021",
+      "performances": [
+          {"event": "6k", "result": "18:55.1", "place": "29th"}
+      ]
+  },
+  {
+      "meet_name": "AARTFC Outdoor Track & Field Championships",
+      "date": "May 15-16, 2021",
+      "performances": [
+          {"event": "3000S", "result": "9:34.40", "place": "5th (F)"}
+      ]
+  },
+  {
+      "meet_name": "Landmark Conference Outdoor Track & Field Championships",
+      "date": "May 8, 2021",
+      "performances": [
+          {"event": "3000S", "result": "10:02.66", "place": "3rd (F)"}
+      ]
+  },
+  {
+      "meet_name": "Juniata College Invite",
+      "date": "Apr 24, 2021",
+      "performances": [
+          {"event": "3000", "result": "8:58.90", "place": "1st (F)"},
+          {"event": "4x400", "result": "3:47.96", "place": "2nd (F)"}
+      ]
+  },
+  {
+      "meet_name": "2021 Coach Pollard Invitational",
+      "date": "Apr 17, 2021",
+      "performances": [
+          {"event": "5000", "result": "15:26.82", "place": "1st (F)"}
+      ]
+  },
+  {
+      "meet_name": "2021 Greyhound Invitational",
+      "date": "Apr 10, 2021",
+      "performances": [
+          {"event": "3000S", "result": "9:47.93", "place": "2nd (F)"},
+          {"event": "4x400", "result": "3:42.90", "place": "2nd (F)"}
+      ]
+  },
+  {
+      "meet_name": "Etown Early Bird",
+      "date": "Mar 27, 2021",
+      "performances": [
+          {"event": "3000S", "result": "10:03.32", "place": "1st (F)"}
+      ]
+  },
+  {
+      "meet_name": "Landmark Conference Indoor Track & Field Championships",
+      "date": "Feb 29, 2020",
+      "performances": [
+          {"event": "3000", "result": "9:34.11", "place": "19th (F)"},
+          {"event": "5000", "result": "15:55.30", "place": "5th (F)"}
+      ]
+  },
+  {
+      "meet_name": "Fastrack National Invite",
+      "date": "Feb 14, 2020",
+      "performances": [
+          {"event": "3000", "result": "8:54.05", "place": "14th (F)"}
+      ]
+  },
+  {
+      "meet_name": "Ithaca Bomber Invitational",
+      "date": "Feb 1-2, 2020",
+      "performances": [
+          {"event": "3000", "result": "9:08.07", "place": "14th (F)"}
+      ]
+  },
+  {
+      "meet_name": "Conference Challenge Cup Invite",
+      "date": "Jan 25, 2020",
+      "performances": [
+          {"event": "5000", "result": "15:57.78", "place": "5th (F)"}
+      ]
+  },
+  {
+      "meet_name": "2020 Moravian College Indoor Meet",
+      "date": "Jan 18, 2020",
+      "performances": [
+          {"event": "3000", "result": "9:17.37", "place": "10th (F)"}
+      ]
+  },
+  {
+      "meet_name": "NCAA Division III Mideast Region Cross Country Championships",
+      "date": "Nov 16, 2019",
+      "performances": [
+          {"event": "8k", "result": "27:05.0", "place": "117th"}
+      ]
+  },
+  {
+      "meet_name": "2019 Landmark Conference Cross Country Championships",
+      "date": "Nov 2, 2019",
+      "performances": [
+          {"event": "8k", "result": "27:23.8", "place": "54th"}
+      ]
+  },
+  {
+      "meet_name": "Rowan University Border Battle",
+      "date": "Oct 19, 2019",
+      "performances": [
+          {"event": "8k", "result": "27:06.1", "place": "56th"}
+      ]
+  },
+  {
+      "meet_name": "Paul Short Run",
+      "date": "Oct 5, 2019",
+      "performances": [
+          {"event": "8k", "result": "26:21.7", "place": "180th"}
+      ]
+  },
+  {
+      "meet_name": "ECXC's Short Course Invite",
+      "date": "Sep 20, 2019",
+      "performances": [
+          {"event": "6k", "result": "19:37.8", "place": "23rd"}
+      ]
+  },
+  {
+    "meet_name": "Lehigh Invitational",
+    "date": "Sep 2, 2019",
+    "performances": [
+        {"event": "6k", "result": "18:16.8", "place": "15th"}
+    ]
+},
+{
+    "meet_name": "AARTFC Outdoor Track & Field Championships",
+    "date": "May 18-19, 2019",
+    "performances": [
+        {"event": "3000S", "result": "10:17.46", "place": "22nd (F)"}
+    ]
+},
+{
+    "meet_name": "Landmark Conference Outdoor Track & Field Championships 2019",
+    "date": "May 4-5, 2019",
+    "performances": [
+        {"event": "5000", "result": "15:57.14", "place": "10th (F)"}
+    ]
+},
+{
+    "meet_name": "Greyhound Invitational",
+    "date": "Apr 19-20, 2019",
+    "performances": [
+        {"event": "3000S", "result": "10:13.67", "place": "8th (F)"}
+    ]
+},
+{
+    "meet_name": "Coach Pollard Invitational",
+    "date": "Apr 12-13, 2019",
+    "performances": [
+        {"event": "3000S", "result": "10:25.61", "place": "3rd (F)"}
+    ]
+},
+{
+    "meet_name": "Muhlenberg Invitational",
+    "date": "Apr 6, 2019",
+    "performances": [
+        {"event": "3000S", "result": "10:38.17", "place": "6th (F)"}
+    ]
+},
+{
+    "meet_name": "2019 Lafayette Invitational",
+    "date": "Mar 30, 2019",
+    "performances": [
+        {"event": "1500", "result": "4:26.74", "place": "6th (F)"}
+    ]
+},
+{
+    "meet_name": "Landmark Conference Indoor Track & Field Championships",
+    "date": "Feb 23, 2019",
+    "performances": [
+        {"event": "3000", "result": "9:36.80", "place": "6th (F)"}
+    ]
+},
+{
+    "meet_name": "Keogh Invitational",
+    "date": "Feb 16, 2019",
+    "performances": [
+        {"event": "3000", "result": "9:46.40", "place": "5th (F)"}
+    ]
+},
+{
+    "meet_name": "2019 SU Challenge",
+    "date": "Feb 2, 2019",
+    "performances": [
+        {"event": "Mile", "result": "4:52.13", "place": "5th (F)"}
+    ]
+},
+{
+    "meet_name": "Moravian College Indoor Meet",
+    "date": "Jan 26, 2019",
+    "performances": [
+        {"event": "3000", "result": "9:50.55", "place": "10th (F)"}
+    ]
+},
+{
+    "meet_name": "2019 Collegeville Classic",
+    "date": "Jan 19, 2019",
+    "performances": [
+        {"event": "3000", "result": "9:50.01", "place": "7th (F)"}
+    ]
+},
+{
+    "meet_name": "Lehigh Fast Times Before Finals",
+    "date": "Dec 7-8, 2018",
+    "performances": [
+        {"event": "4x800", "result": "8:33.21", "place": "4th (F)"}
+    ]
+},
+{
+    "meet_name": "Landmark Conference Cross Country Championships",
+    "date": "Oct 27, 2018",
+    "performances": [
+        {"event": "8k", "result": "29:16.2", "place": "51st"}
+    ]
+},
+{
+    "meet_name": "Rowan Interregional Border Battle",
+    "date": "Oct 13, 2018",
+    "performances": [
+        {"event": "8k", "result": "32:05.3", "place": "180th"}
+    ]
+},
+{
+    "meet_name": "Paul Short Open",
+    "date": "Sep 29, 2018",
+    "performances": [
+        {"event": "8k", "result": "30:17.4", "place": "334th"}
+    ]
+},
+{
+    "meet_name": "2018 Cedar Crest/ Moravian XC Invitational",
+    "date": "Sep 14, 2018",
+    "performances": [
+        {"event": "8k", "result": "29:25.6", "place": "36th"}
+    ]
+},
+{
+    "meet_name": "LVC Dutchmen XC Invite",
+    "date": "Sep 8, 2018",
+    "performances": [
+        {"event": "8k", "result": "30:16.9", "place": "61st"}
+    ]
+},
+{
+    "meet_name": "Bulldog Invite",
+    "date": "Aug 31, 2018",
+    "performances": [
+        {"event": "5k", "result": "18:50.0", "place": "39th"}
+    ]
+}
+]

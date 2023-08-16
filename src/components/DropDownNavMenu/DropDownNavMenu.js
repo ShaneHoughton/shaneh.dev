@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import ExpandMoreIcon from '@mui/icons-material/Menu';
 import { IconButton } from '@mui/material';
 import { Link } from 'react-router-dom';
-import classes from './DropDownMenu.module.css'; // Import the CSS file for styling
+import classes from './DropDownNavMenu.module.css'; // Import the CSS file for styling
 
-const DropDownMenu = () => {
+const DropDownNavMenu = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const toggleMenu = () => {
@@ -38,4 +38,4 @@ const DropDownMenu = () => {
   );
 };
 
-export default DropDownMenu;
+export default DropDownNavMenu;

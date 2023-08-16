@@ -1,0 +1,8 @@
+.drop-down-icon{
+  width: 0;
+  height: 0;
+  border-left: .3rem solid transparent;
+  border-right: .3rem solid transparent;
+  border-top: .5rem solid #F9F9DC; 
+  margin-left: 1rem;
+}
