@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.e5018a33.css",
-    "main.js": "/static/js/main.ca6662c3.js",
+    "main.js": "/static/js/main.2800a41c.js",
     "static/media/upload_success.png": "/static/media/upload_success.8b8b008e0572d5df7746.png",
     "static/media/canvas.png": "/static/media/canvas.6aaf1bea0f113e063c87.png",
     "static/media/sign_in.png": "/static/media/sign_in.ce72a24727a2ae94db10.png",
     "static/media/sketchi-logo.png": "/static/media/sketchi-logo.cfe2b1ff0ff2852f3bc3.png",
-    "static/media/hermes-logo.svg": "/static/media/hermes-logo.b7bf0264f10e47335b61672a0f73c981.svg",
+    "static/media/hermes-logo.svg": "/static/media/hermes-logo.fa4d1e2729894f75f4b82f98e293afaa.svg",
     "index.html": "/index.html",
     "main.e5018a33.css.map": "/static/css/main.e5018a33.css.map",
-    "main.ca6662c3.js.map": "/static/js/main.ca6662c3.js.map"
+    "main.2800a41c.js.map": "/static/js/main.2800a41c.js.map"
   },
   "entrypoints": [
     "static/css/main.e5018a33.css",
-    "static/js/main.ca6662c3.js"
+    "static/js/main.2800a41c.js"
   ]
 }
